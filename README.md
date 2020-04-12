@@ -12,7 +12,7 @@ explain how to use ntee proxy
 
 #### 非 clash 和 surge 客户端。
 
-非上述两种客户端，可以自行配置代理。
+如果使用非上述两种客户端，可以自行配置代理。
 
 1. 在[ntee dashboard](https://www.ntee.io/dashboard)找到 proxy username 和 proxy password。
 2. 在右边菜单中，选择[click to check all available proxy nodes](https://www.ntee.io/proxy_nodes)
