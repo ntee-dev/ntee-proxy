@@ -27,5 +27,6 @@ explain how to use ntee proxy
 2. 确认右下角，当前套餐 （subscribe end at:） 的日期。
 3. 在 use coupon 输入框内输入对应的 coupon code，点击 use。
 4. 操作后会跳转回 dashboard 页面，如果使用成功，会看到右下方 （subscribe end at:） 增加一个月。
-###### 注意，每个 Coupon 都有使用次数限制，如果跳转页面没有特别提示，并且 套餐没有增加，说明Coupon已经不能再使用了。
+
+###### 注意，每个 Coupon 都有使用次数限制，如果跳转页面没有特别提示，并且套餐没有增加，则说明Coupon已经不能再使用 或者 输入的coupon不合法。
 
