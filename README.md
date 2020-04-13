@@ -7,8 +7,19 @@ explain how to use ntee proxy
 3. 下载第三方客户端。（[mac surge](https://nssurge.com/)，[clash for windows](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.9.5/Clash.for.Windows.Setup.0.9.5.exe)，[clash for android](https://github.com/Kr328/ClashForAndroid/releases/download/1.1.10/app-arm64-v8a-release.apk))
 ###### 注意：若使用iphone手机，则需要解锁国外apple store才可以下载各类客户端（e.g: surge, shadowrocket)
 
-4. 进入[ntee dashboard](https://www.ntee.io/dashboard), 在右边列表下载对应客户端 config 文件（目前支持 surge 和 clash）。
-5. 下载后，载入配置文件到客户端， 以clash for android为例，开启 app，选择Profiles, 点击 new profile，选择刚刚下载的clash配置文件，点击右上角保存，回到Profiles 页面 选中刚刚新建好的配置，回到主界面，点击 Tap to start 开启代理。
+##### Clash For Android
+1. 进入[ntee dashboard](https://www.ntee.io/dashboard), 在右边列表下载对应客户端 config 文件（目前支持 surge 和 clash）。
+2. 下载[clash for android](https://github.com/Kr328/ClashForAndroid/releases/download/1.1.10/app-arm64-v8a-release.apk)后，载入配置文件到客户端， 以clash for android为例，开启 app，选择Profiles, 点击 new profile，选择刚刚下载的clash配置文件，点击右上角保存，回到Profiles 页面 选中刚刚新建好的配置。
+3. 回到主界面，点击 Tap to start 开启代理
+
+##### Clash For Windows
+1. 进入[ntee dashboard](https://www.ntee.io/dashboard), 在右边列表下载对应客户端 config 文件（目前支持 surge 和 clash）。
+2. 下载客户端[clash for windows](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.9.5/Clash.for.Windows.Setup.0.9.5.exe)。
+3. 开启客户端（注：因为是代理软件，部分杀毒软件有可能提示危险程序），选择左边菜单 General， 并且在最下方开启 system proxy 选项。
+4. 选择profiles，然后将刚刚下载的 config 文件拖入 clash 窗口。
+5. 删除之前的 config （可选）
+6. 进入 proxies， 选择 rule，然后选择对应的Rule （e.g: UrlTestHK)
+7. 开始使用。
 
 #### 非 clash 和 surge 客户端。
 
