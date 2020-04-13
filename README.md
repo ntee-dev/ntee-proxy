@@ -18,3 +18,14 @@ explain how to use ntee proxy
 2. 在右边菜单中，选择[click to check all available proxy nodes](https://www.ntee.io/proxy_nodes)
 3. 选择需要的节点，然后使用 https 代理方式，并输入对应的节点的 url和端口号，username and password。
 4. 保存配置后，开启代理。
+
+
+### 如何使用 Free Coupon
+###### 使用 Free Coupon 可以直接续期套餐一个月，每个coupon每人只能使用一次。
+
+1. 在获得 free coupon code (e.g: K4vbnVjuYj) 后, 登录 ntee dashboard。
+2. 确认右下角，当前套餐 （subscribe end at:） 的日期。
+3. 在 use coupon 输入框内输入对应的 coupon code，点击 use。
+4. 操作后会跳转回 dashboard 页面，如果使用成功，会看到右下方 （subscribe end at:） 增加一个月。
+###### 注意，每个 Coupon 都有使用次数限制，如果跳转页面没有特别提示，并且 套餐没有增加，说明Coupon已经不能再使用了。
+
