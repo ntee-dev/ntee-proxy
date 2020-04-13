@@ -1,11 +1,15 @@
 # ntee-proxy
-explain how to use ntee proxy
+
+##### 付款前须知：
+付款后，在套餐有效期内继续付款购买套餐，则视为续期当前套餐。
+
+如果套餐在有效期，则不支持套餐升降级，需等待套餐过期后，另行购买新的套餐。
 
 #### 使用说明
 1. 登录 [ntee proxy](https://www.ntee.io) 主站。
 2. 根据流程注册并购买流量套餐。
 3. 下载第三方客户端。（[mac surge](https://nssurge.com/)，[clash for windows](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.9.5/Clash.for.Windows.Setup.0.9.5.exe)，[clash for android](https://github.com/Kr328/ClashForAndroid/releases/download/1.1.10/app-arm64-v8a-release.apk))
-###### 注意：若使用iphone手机，则需要解锁国外apple store才可以下载各类客户端（e.g: surge, shadowrocket)
+###### 注意：若使用iphone手机，则需要解锁 apple store才可以下载各类客户端（e.g: surge, shadowrocket)
 
 ##### Clash For Android
 1. 进入[ntee dashboard](https://www.ntee.io/dashboard), 在右边列表下载对应客户端 config 文件（目前支持 surge 和 clash）。
