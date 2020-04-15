@@ -12,6 +12,7 @@
 ###### 注意：若使用iphone手机，则需要解锁非大陆地区 apple store 才可以下载各类客户端（e.g: surge, shadowrocket)
 
 ##### Clash For Android
+###### 使用手机端下载 config 文件时，推荐使用 Chrome，火狐，Safari 等主流浏览器下载。
 1. 进入[ntee dashboard](https://www.ntee.io/dashboard), 在右边列表下载对应客户端 config 文件（目前支持 surge 和 clash）。
 2. 下载[clash for android](https://github.com/Kr328/ClashForAndroid/releases/download/1.1.10/app-arm64-v8a-release.apk)后，载入配置文件到客户端， 以clash for android为例，开启 app，选择Profiles, 点击 new profile，选择刚刚下载的clash配置文件，点击右上角保存，回到Profiles 页面 选中刚刚新建好的配置。
 3. 回到主界面，点击 Tap to start 开启代理
