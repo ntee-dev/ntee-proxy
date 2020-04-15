@@ -11,6 +11,8 @@
 3. 下载第三方客户端。（[mac surge](https://nssurge.com/)，[clash for windows](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.9.5/Clash.for.Windows.Setup.0.9.5.exe)，[clash for android](https://github.com/Kr328/ClashForAndroid/releases/download/1.1.10/app-arm64-v8a-release.apk))
 ###### 注意：若使用iphone手机，则需要解锁非大陆地区 apple store 才可以下载各类客户端（e.g: surge, shadowrocket)
 
+###### 提示，下载的config文件名为：ntee_clash.yaml 或者 ntee_surge.surgeconfig
+
 ##### Clash For Android
 ###### 使用手机端下载 config 文件时，推荐使用 Chrome，火狐，Safari 等主流浏览器下载。
 1. 进入[ntee dashboard](https://www.ntee.io/dashboard), 在右边列表下载对应客户端 config 文件（目前支持 surge 和 clash）。
@@ -25,6 +27,16 @@
 5. 删除之前的 config （可选）
 6. 进入 proxies， 选择 rule，然后选择对应的Rule （e.g: UrlTestHK)
 7. 开始使用。
+
+##### Clash For Mac
+1. 进入[ntee dashboard](https://www.ntee.io/dashboard), 在右边列表下载对应客户端 config 文件（目前支持 surge 和 clash）。
+2. 下载 [Clash for Mac](https://github.com/yichengchen/clashX/releases/download/1.19.1/ClashX.dmg)客户端。
+3. 开启客户端，过程中可能需要授权安装一些依赖程序。
+4. 打开后在顶部菜单栏中，有一只猫的图标，点击弹出菜单，选择配置，再选择打开配置文件。
+5. 将之前下载的 config 配置文件拖入弹出的 Finder菜单中，关闭。
+6. 再次再顶部菜单中 选择配置，并选择 ntee_clash。
+7. 开启全局代理或规则代理。
+8. 开始使用。
 
 #### 非 clash 和 surge 客户端。
 
