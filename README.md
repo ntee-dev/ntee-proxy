@@ -41,7 +41,7 @@
 		* [Clash for Anroid](https://github.com/Kr328/ClashForAndroid/releases/download/1.1.10/app-arm64-v8a-release.apk)
 	* IOS
 		* [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
-		* 
+		* 注册ntee代理后站内会提供免费下载Shadowrocket的账号
 
 
 （[clash for windows]，[clash for android](https://github.com/Kr328/ClashForAndroid/releases/download/1.1.10/app-arm64-v8a-release.apk))
